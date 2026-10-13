@@ -1,3 +1,5 @@
+> **Stale copy.** The maintained repository is [autheo-os/autheo-mcp-site](https://github.com/autheo-os/autheo-mcp-site). This fork is archived (read-only).
+
 # Autheo MCP website
 
 Standalone product/documentation website for [Autheo MCP](https://github.com/ThothDivision/autheo-mcp), contributed by [SolutionsAsService](https://github.com/SolutionsAsService).
